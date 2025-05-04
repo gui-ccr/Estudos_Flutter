@@ -11,6 +11,8 @@ main() {
   String Function(Map) pegarApenasONome = (aluno) => aluno['nome'];
   int Function(String) qtdeDeLetras = (texto) => texto.length;
   int Function(int) dobro = (numero) => numero * 2;
-  var resultado = alunos.map(pegarApenasONome).map(qtdeDeLetras).map(dobro);
+  double Function(Map) pegarNotas = (aluno) => aluno['nota']; // Corrigido o tipo e adicionado o ponto e vírgula
+  var resultado = alunos.map(pegarNotas);
   print(resultado);
 }
+sda
