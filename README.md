@@ -1,4 +1,6 @@
-![Dart Banner](https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart Logo" width="90"/>
+</p>
 
 # 🎯 Repositório de Estudos em Dart
 
