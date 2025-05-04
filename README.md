@@ -1,4 +1,4 @@
-![Dart Banner](https://dart.dev/assets/shared/dart-logo-for-shares.png?2)
+![Dart Banner](https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png)
 
 # 🎯 Repositório de Estudos em Dart
 
