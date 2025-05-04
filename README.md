@@ -52,5 +52,5 @@ Distribuído sob a licença MIT.
 
 Guilherme Rodrigues  
 📧 guilhermerodrigues6484@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-rodrigues)  
+🔗 [LinkedIn](https://www.linkedin.com/in/gui-ccr)  
 📸 [Instagram](https://www.instagram.com/gui_ccr_/)
