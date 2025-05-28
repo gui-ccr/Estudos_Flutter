@@ -15,4 +15,3 @@ main() {
   var resultado = alunos.map(pegarNotas);
   print(resultado);
 }
-sda
